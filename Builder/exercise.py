@@ -15,7 +15,8 @@ class Person:
 from unittest import TestCase
 
 # here instead of printing the whole string from CodeBuilder, we implement Builder design pattern and create each
-# section of code as a separate class with it's own initializer function
+# section of code as a separate class with it's own initializer function. this prevents initializer bloating.
+# this pattern is preferable to and __init__ function with more than 5 arguments
 from unittest import TestCase
 
 
