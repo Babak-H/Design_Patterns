@@ -1,0 +1,8 @@
+Seoul
+1000
+Mexico City
+1000
+Mecca
+300
+Washington
+50
