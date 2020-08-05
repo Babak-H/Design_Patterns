@@ -6,6 +6,7 @@ You are asked to give both SingleValue and ManyValues a property member called s
 that the object contains. Please ensure that there is only a single method that realizes the property sum,
 not multiple methods.
 """
+
 from unittest import TestCase
 from abc import ABC
 from collections.abc import Iterable
